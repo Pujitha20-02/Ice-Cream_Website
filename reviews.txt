@@ -1,0 +1,12 @@
+<div style="text-align:center; margin-top:5px;"><img src="logo.jpeg"></div>
+
+<div style="text-align:center; margin-top:5px;">
+<a style="padding-right:15px;" href="home.html">Home</a>
+<a style="padding-right:15px;" href="about.html">About</a>
+<a style="padding-right:15px;" href="services.html">Services</a>
+<a style="padding-right:15px;" href="reviews.html">Reviews</a>
+</div>
+<h1 style="font-size:40px; text-align:center;">Reviews</h1>
+<p style="font-size:20px; text-align:center; line-height:20px; margin-bottom:30px;">One positive review makes us happy and encourage us to go forward.<br>Thank you. For Review</p>
+
+<div style="text-align:center;"><a style="font-size:20px; background-color:purple; padding:10px 20px 10px 20px; color:white;"href="https://www.google.com/">Click Here</a></div>

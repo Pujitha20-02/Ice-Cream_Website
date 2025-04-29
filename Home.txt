@@ -1,0 +1,28 @@
+<div style="text-align:center; margin-top:5px;"><img src="logo.jpeg"></div>
+
+<div style="text-align:center; margin-top:5px;">
+<a style="padding-right:15px;" href="home.html">Home</a>
+<a style="padding-right:15px;" href="about.html">About</a>
+<a style="padding-right:15px;" href="services.html">Services</a>
+<a style="padding-right:15px;" href="reviews.html">Reviews</a>
+</div>
+<h1 style="font-size:40px; text-align:center;">Heavens of Ice Creams</h1>
+<p style="font-size:20px; text-align:center; line-height:20px; margin-bottom:30px;">Ice Cream is an emotion for every person, mostly when it comes for summer it is mandatory after the food.<br>Let's pick your favourite flavors of ice cream and enjoy the day.</p>
+
+<div style="text-align:center;"><a style="font-size:20px; background-color:purple; padding:10px 20px 10px 20px; color:white;"href="https://www.google.com/">Read More</a></div>
+
+<hr style="width:60%;">
+
+<div style="text-align:center;">
+<h1 style="font-size:40px; text-align:center;">Amazing Flavors</h1>
+<img style="width:30%; height:30%;"src="1.jpeg">
+<img style="width:30%; height:30%;"src="2.jpeg">
+<img style="width:30%; height:30%;"src="3.jpeg">
+<img style="width:30%;"src="4.jpeg">
+<img style="width:30%;"src="5.jpeg">
+<img style="width:30%; height:53%;"src="6.jpeg">
+</div>
+
+<p style="font-size:20px; text-align:center;"> It's easy to make ice creams when you love them. Here are some flavors, would you want to try them!</p>
+
+<div style="text-align:center;"><a style="font-size:20px; background-color:purple; padding:10px 20px 10px 20px; color:white;"href="https://www.youtube.com/watch?v=7gJIyHnD710">Yes</a></div>
